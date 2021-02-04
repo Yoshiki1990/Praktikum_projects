@@ -1,2 +1,26 @@
 # Praktikum_projects
 Проекты курса "Аналитик данных" Яндекс Практикум
+
+## Основные инструменты:
+- Языки: Python/Pandas, SQL
+- Анализ данных: pandas, numpy, scipy, statsmodels
+- Машинное обучение: sklearn
+- Визуализация: matplotlib, Seaborn, Plotly, Tableau
+- Парсинг данных: BeautifulSoup, requests
+
+
+
+### Проекты:
+| **№** | **Название проекта** | **Навыки и инструменты** | **Описание проекта**|
+|:-|:----|:----|:----------|
+| 1 | [Исследование надежности заемщиков - анализ данных кредитного отдела банка](https://github.com/Yoshiki1990/Praktikum_projects/blob/main/1.%20Data%20Preprocessing/Credit_scoring.ipynb) |Python, Pandas, PyMystem3, Collections, предобработка данных, лемматизация| Определить, влияет ли семейное положение и количество детей клиента на факт погашения кредита в срок. Входные данные от банка — статистика о платёжеспособности клиентов. |  
+| 2 | [Исследование объявлений о продаже квартир - анализ рынка недвижимости](https://github.com/Yoshiki1990/Praktikum_projects/blob/main/2.%20Exploratory%20Data%20Analysis%20(EDA)/Realty_EDA.ipynb) |Python, Pandas, NumPy, matplotlib, Seaborn, визуализация данных, EDA | Применив данные Яндекс.Недвижимость, определить рыночную стоимость объектов недвижимости, установить параметры, влияющие эту стоимость. |
+| 3 | [Определение перспективного тарифного плана для телеком компании](https://github.com/Yoshiki1990/Praktikum_projects/blob/main/3.%20Statistical%20analysis/telecom_statistics.ipynb) |Python, Pandas, matplotlib, NumPy, Seaborn, SciPy, calendar, A/B-testing |  По данным 500 пользователей «Мегалайна» нужно проанализировать поведение клиентов и сделать вывод — какой тариф лучше. |
+| 4 | [Исследование рынка компьютерных игр](https://github.com/Yoshiki1990/Praktikum_projects/blob/main/4.%20Video%20Games%20Market%20Analysis/Video_games_market_analysis.ipynb) | Python, Pandas, matplotlib, Seaborn, Plotly, scipy, предобработка данных, EDA, описательная статистика, визуализация данных, AB-testing | На основе исторических данных о продажах игр выявить определяющие успешность игры закономерности. |
+| 5 | [Аналитика в авиакомпании](https://github.com/Yoshiki1990/Praktikum_projects/blob/main/5.%20Aviacompany%20Analysis/Aviacompany_analysis.ipynb) | Python, Pandas, plotly, matplotlib, requests, BeautifulSoup, EDA, парсинг данных, визуализация данных | Требуется понять предпочтения пользователей, покупающих билеты на те или иные направления. Предстоит изучить базу данных и проанализировать влияние парка самолетов и аэропортов назначения на количество полетов в месяц. |
+| 6 | [Маркетинговая аналитика в Яндекс.Афише](htthttps://github.com/Yoshiki1990/Praktikum_projects/blob/main/6.%20Marketing%20analysis/Marketing_Analysis.ipynb) | Python, Pandas, NumPy, matplotlib, Seaborn, когортный анализ, Retention Rate, накопительный LTV, САС, ROMI, ROI | Помочь маркетологам оптимизировать маркетинговые затраты. В распоряжении есть данные от Яндекс.Афиши с июня 2017 по конец мая 2018 года. |
+| 7 | [Принятие решение в бизнесе на основе данных. Приоритизация гипотез. Проведение А/В-теста e-commerce и оценка его результатов](https://github.com/Yoshiki1990/Praktikum_projects/blob/main/7.%20AB-testing/AB-testing.ipynb) | Python, Pandas, matplotlib, SciPy, A/B-testing, проверка статистических гипотез | Приоритизировать гипотезы для увеличения выручки в крупном интернет-магазине. Запустить A/B-тест и проанализировать его результаты. 
+| 8 | [Исследование рынка общественного питания Москвы для принятия решения об открытии нового заведения](https://github.com/Yoshiki1990/Praktikum_projects/blob/main/8.%20Visualisation%20and%20APIs/Visualisation%20and%20APIs.ipynb) | Python, Pandas, Plotly, Seaborn, dadata API, визуализация данных, регулярные выражения | Исследование рынка заведений общественного питания г. Москвы на основе открытых данных. Подготовка презентации для инвесторов.
+| 9 | [Анализ поведения пользователей мобильного приложения](https://github.com/Yoshiki1990/Praktikum_projects/blob/main/9.%20Mobile%20apps%20analysis/Mobile_apps_analysis.ipynb) | Python, Pandas, Plotly, matplotlib, Seaborn, A/А/B-testing, визуализация данных, продуктовые метрики, воронка событий | Требуется проанализировать поведение пользователей мобильного приложения, изучить воронку продаж, принять решение по результатам А/А/В-теста. |
+| 10 | [Прогнозирование оттока клиентов фитнес-центра](https://github.com/Yoshiki1990/Praktikum_projects/blob/main/10.%20Machine%20Learning/Machine_Learning.ipynb) | Python, Pandas, matplotlib, Seaborn, Plotly, sklearn, scipy, EDA, кластеризация KMeans, Machine Learning |  Cпрогнозировать вероятность оттока (на уровне следующего месяца) для каждого клиента. Cформировать типичные портреты клиентов: выделить несколько наиболее ярких групп и охарактеризовать их основные свойства при помощи кластеризации. |
+| 11 | [Оценка эффективности магазинов розничной сети](https://github.com/Yoshiki1990/Praktikum_projects/blob/main/11.%20Retail%20Data%20Analysis/Retail_data_analysis.ipynb) | Python, Pandas, matplotlib, Seaborn, scipy, termcolor, EDA, A/B-testing, Tableau | Выбрать ключевые показатели эффективности магазинов розничной сети по предоставленным данным и выявить наиболее эффективные торговые точки. Проверить гипотезы влияния участия в программе лояльности на ключевые показатели |
